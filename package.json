@@ -1,0 +1,25 @@
+{
+  "name": "@bons/eslint-rules",
+  "version": "0.0.0-development",
+  "description": "eslint rules styleguide for BONS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bons/eslint-rules.git"
+  },
+  "keywords": [
+    "eslint",
+    "rules",
+    "backend",
+    "frontend"
+  ],
+  "author": "Bons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bons/eslint-rules/issues"
+  },
+  "homepage": "https://github.com/bons/eslint-rules#readme"
+}
