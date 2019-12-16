@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "ignoreChanges": ["ignored-file", "*.md"],
+      "message": "chore(release): :rocket:"
+    },
+    "version": {
+      "conventionalCommits": true
+    },
+    "bootstrap": {
+      "npmClientArgs": ["--no-package-lock"]
+    }
+  }
+}
