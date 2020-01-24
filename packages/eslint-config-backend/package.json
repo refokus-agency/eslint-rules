@@ -1,5 +1,5 @@
 {
-  "name": "@eslint-rules/eslint-config-backend",
+  "name": "@bons/eslint-config-backend",
   "version": "0.0.1",
   "description": "Eslint rules for nodejs backend development",
   "author": "Bons",
