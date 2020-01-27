@@ -1,5 +1,5 @@
 {
-  "name": "@eslint-rules/eslint-config-backend-typescript",
+  "name": "@bons/eslint-config-backend-typescript",
   "version": "0.0.1",
   "description": "Eslint rules for node development with TS",
   "author": "Bons",
