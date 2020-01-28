@@ -1,6 +1,6 @@
 {
   "name": "@bons/eslint-config-frontend",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Eslint rules for react frontend development",
   "author": "Bons",
   "homepage": "https://github.com/bons/eslint-rules#readme",
