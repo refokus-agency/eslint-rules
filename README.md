@@ -1,2 +1,2 @@
 # eslint-rules
-eslint rules styleguide for BONS projects
+eslint rules styleguide for Refokus projects
